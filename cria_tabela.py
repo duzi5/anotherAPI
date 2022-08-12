@@ -38,10 +38,6 @@ class InstanceList:
         return instance
 
 
-
-
-
-
 modelo = CriaModel()
 
 modelo.Column('nome')
